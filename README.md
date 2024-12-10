@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImrenR
+- 👋 Hi, I’m Imren
 - 🌱 I’m currently learning frontend and backend development
 - 📫 How to reach me : imrenrahbay@gmail.com
 
