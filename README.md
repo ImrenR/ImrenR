@@ -10,6 +10,7 @@
 # 👋 Hi, I’m Imren
 
 🌱 I’m a passionate **Full Stack Developer** currently honing my skills in **frontend** and **backend development**. I strive to build user-friendly, efficient, and scalable web applications.
+✨ **Achievements**: I have completed **JavaScript** and **HTML5**, gaining strong proficiency in these essential web development technologies.
 
 ✨ **What I’m Learning**:
 - Advanced **JavaScript** and modern frameworks like **React** and **Vue.js**.
