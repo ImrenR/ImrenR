@@ -1,6 +1,7 @@
 
-![Uploading vintage-computer-aesthetic-captivating-header-image-with-retro-tech-vibes_27525-50251.jpg…]()
 
+
+![vintage-computer-aesthetic-captivating-header-image-with-retro-tech-vibes_27525-50251](https://github.com/user-attachments/assets/e7870885-35da-42a6-b0c5-81015f163e51)
 
 
 
