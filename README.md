@@ -5,9 +5,7 @@ I'm a **Full Stack Developer** with experience in **HTML, CSS, SASS, Tailwind, N
 ### About Me
 -  Currently learning **new technologies** to level up my skills
 -  Looking for opportunities as a **Front-End / Full Stack Developer**
--  Open to collaborating on **exciting projects**
 -  Reach me at **[https://www.linkedin.com/in/imrenr/]**
-
 ---
 ### 📊 GitHub Stats
 ![Imren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImrenR&show_icons=true&theme=radical)
