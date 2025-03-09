@@ -2,11 +2,11 @@
 
 I'm a **Full Stack Developer** with experience in **HTML, CSS, SASS, Tailwind, Next.js, JavaScript, and React.js**. I love building and optimizing applications while continuously learning new technologies. 
 ---
-### 🚀 About Me
-- 🌱 Currently learning **new technologies** to level up my skills
-- 🎯 Looking for opportunities as a **Front-End / Full Stack Developer**
-- 🔍 Open to collaborating on **exciting projects**
-- 📫 Reach me at **[https://www.linkedin.com/in/imrenr/]**
+### About Me
+-  Currently learning **new technologies** to level up my skills
+-  Looking for opportunities as a **Front-End / Full Stack Developer**
+-  Open to collaborating on **exciting projects**
+-  Reach me at **[https://www.linkedin.com/in/imrenr/]**
 
 ---
 ### 📊 GitHub Stats
