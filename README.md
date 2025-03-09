@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Imren
+<div align= "center">
+  <img src="https://github.com/user-attachments/assets/eb8c33d3-698a-402b-a026-cc5d712de5e3" width="300px" height="300px">
+</div>
+
 
 I'm a **Full Stack Developer** with experience in **HTML, CSS, SASS, Tailwind, Next.js, JavaScript, and React.js**. I love building and optimizing applications while continuously learning new technologies. 
 ---
