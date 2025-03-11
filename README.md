@@ -10,11 +10,15 @@ I'm a **Full Stack Developer** with experience in **HTML, CSS, SASS, Tailwind, N
 -  Looking for opportunities as a **Front-End / Full Stack Developer**
 -  Reach me at **[https://www.linkedin.com/in/imrenr/]**
 ---
-### 📊 GitHub Stats
-![Imren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImrenR&show_icons=true&theme=radical)
+### 📊 GitHub Stats & ⚡ Most Used Languages
 
-### ⚡ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImrenR&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ImrenR&show_icons=true&theme=radical" alt="Imren's GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImrenR&layout=compact&theme=radical" alt="Top Languages"></td>
+  </tr>
+</table>
+
 
 ### 🛠️ Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
