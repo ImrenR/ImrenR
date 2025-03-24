@@ -1,37 +1,108 @@
-<div align= "center">
-  <img src="https://github.com/user-attachments/assets/eb8c33d3-698a-402b-a026-cc5d712de5e3" width="300px" height="300px">
-</div>
 
 
-**Full Stack Developer**
+
+### Hi there 👋
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=👩‍💻+It's+Imren.;Full-stack+Developer.;Clean+code+and+great+UX+enthusiast.;Building+with+React+%26+Next.js.;Let%27s+build+beautiful+web+apps!)](https://git.io/typing-svg)
+
+### 👩‍💻 About Me
+
+Hi, I'm Imren — a passionate Full-stack Developer who loves turning ideas into beautiful, functional web experiences. I enjoy building clean, scalable applications using modern frameworks like React, Next.js, and Node.js. I'm always exploring new technologies and improving my craft one line of code at a time.
+
+
 ---
-### About Me
--  Currently learning **new technologies** to level up my skills
--  Looking for opportunities as a **Front-End / Full Stack Developer**
--  Reach me at **[https://www.linkedin.com/in/imrenr/]**
+## 🧱 3D GitHub Contribution Calendar
+
+<img src="profile-3d-contrib/profile-season.svg" alt="3D GitHub Contribution Calendar" width="100%" />
+
 ---
-### 📊 GitHub Stats & ⚡ Most Used Languages
+
+
+## 🧰 Technologies That I Know
+
+## 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ImrenR&show_icons=true&theme=radical" alt="Imren's GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImrenR&layout=compact&theme=radical" alt="Top Languages"></td>
+    <td><b>Programming Languages:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+      <br/>
+      javascript • typescript 
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <br/>
+      react.js • next.js • redux • html • css • javaScript 
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+      <br/>
+      node.js • express.js 
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td><b>Styling</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" />
+      <br/>
+      css • sass • tailwind • materialUI • bootstrap • styled-components
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" />
+      <br/>
+      cypress.js
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+      <br/>
+      SQLite • sequelize • mongoDB • postgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+      <br/>
+      webstorm • vscode • git • npm • vercel • postman
+    </td>
   </tr>
 </table>
 
 
-### 🛠️ Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-### 📢 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imrenr/)
-
-Let's build something awesome together! 🚀
