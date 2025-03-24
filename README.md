@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-Hi, I'm Imren — a passionate Full-stack Developer who loves turning ideas into beautiful, functional web experiences. I enjoy building clean, scalable applications using modern frameworks like React, Next.js, and Node.js. I'm always exploring new technologies and improving my craft one line of code at a time.
+Hi and welcome to my GitHub Profile! I enjoy building clean, scalable applications using modern frameworks like React, Next.js, and Node.js. I'm always exploring new technologies and improving my craft one line of code at a time.
 
 
 ---
