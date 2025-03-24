@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=👩‍💻+It's+Imren.;Full-stack+Developer.;Clean+code+and+great+UX+enthusiast.;Building+with+React+%26+Next.js.;Let%27s+build+beautiful+web+apps!)](https://git.io/typing-svg)
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi and welcome to my GitHub Profile! I enjoy building clean, scalable applications using modern frameworks like React, Next.js, and Node.js. I'm always exploring new technologies and improving my craft one line of code at a time.
 
