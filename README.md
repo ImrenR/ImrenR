@@ -11,7 +11,7 @@
 Hi and welcome to my GitHub Profile! I enjoy building clean, scalable applications using modern frameworks like React, Next.js, and Node.js. I'm always exploring new technologies and improving my craft one line of code at a time.
 
 
----
+
 ## 🧱 3D GitHub Contribution Calendar
 
 <img src="profile-3d-contrib/profile-season.svg" alt="3D GitHub Contribution Calendar" width="100%" />
@@ -21,7 +21,6 @@ Hi and welcome to my GitHub Profile! I enjoy building clean, scalable applicatio
 
 ## 🧰 Technologies That I Know
 
-## 🛠️ Tech Stack
 
 <table>
   <tr>
