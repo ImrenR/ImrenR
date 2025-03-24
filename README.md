@@ -71,12 +71,6 @@ Hi and welcome to my GitHub Profile! I enjoy building clean, scalable applicatio
     </td>
   </tr>
   <tr>
-    <td><b>Testing</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" />
-      <br/>
-      cypress.js
-    </td>
   </tr>
   <tr>
     <td><b>Database</b></td>
