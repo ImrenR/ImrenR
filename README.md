@@ -19,7 +19,7 @@ I'm always exploring new technologies and improving my craft one line of code at
 
 <table>
   <tr>
-    <td><strong>🧠 Programming Languages</strong></td>
+    <td><strong> Programming Languages</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
@@ -28,7 +28,7 @@ I'm always exploring new technologies and improving my craft one line of code at
     </td>
   </tr>
   <tr>
-    <td><strong>🎨 Frontend</strong></td>
+    <td><strong> Frontend</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
@@ -41,7 +41,7 @@ I'm always exploring new technologies and improving my craft one line of code at
     </td>
   </tr>
   <tr>
-    <td><strong>⚙️ Backend</strong></td>
+    <td><strong>Backend</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
@@ -50,7 +50,7 @@ I'm always exploring new technologies and improving my craft one line of code at
     </td>
   </tr>
   <tr>
-    <td><strong>🎨 Styling</strong></td>
+    <td><strong>Styling</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
@@ -63,7 +63,7 @@ I'm always exploring new technologies and improving my craft one line of code at
     </td>
   </tr>
   <tr>
-    <td><strong>🗄️ Databases</strong></td>
+    <td><strong> Databases</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" />
@@ -74,7 +74,7 @@ I'm always exploring new technologies and improving my craft one line of code at
     </td>
   </tr>
   <tr>
-    <td><strong>🛠️ Tools</strong></td>
+    <td><strong>Tools</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
