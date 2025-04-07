@@ -1,0 +1,25 @@
+# React (JSX / TSX)
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=TypeScript
+
+# Next.js
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+
+# HTML, Sass
+*.html linguist-language=HTML
+*.scss linguist-language=Sass
+*.sass linguist-language=Sass
+
+# Express.js (backend)
+routes/** linguist-language=JavaScript
+controllers/** linguist-language=JavaScript
+
+# Ignore non-code content
+*.md linguist-documentation
+*.json linguist-generated
+*.lock linguist-generated
+*.env linguist-generated
+*.yml linguist-generated
+*.yaml linguist-generated
+*.gitignore linguist-generated
