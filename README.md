@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=👩‍💻+It's+Imren.;Full-stack+Developer.;Clean+code+and+great+UX+enthusiast.;Building+with+React+%26+Next.js.;Let%27s+build+beautiful+web+apps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=👩‍💻+It's+Imren.;Full-stack+Developer+based+in+Porto.;Clean+code+and+great+UX+enthusiast.;Building+with+React+%26+Next.js.;Let%27s+build+beautiful+web+apps!)](https://git.io/typing-svg)
 
 ---
 
