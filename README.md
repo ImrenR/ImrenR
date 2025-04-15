@@ -1,6 +1,7 @@
 
-### Hi there, I'm Imren — a full stack developer based in Portugal, skilled in JavaScript and TypeScript. 
-### I work with technologies like React.js, Next.js, Node.js, Express.js, Redux, Tailwind CSS, PostgreSQL, MongoDB, and tools such as GitHub, Firebase, Postman, and Cypress.
+### Hi there It s Imren ! 
+- I'm a full stack developer based in Portugal, skilled in JavaScript and TypeScript. 
+- I work with technologies like React.js, Next.js, Node.js, Express.js, Redux, Tailwind CSS, PostgreSQL, MongoDB, and tools such as GitHub, Firebase, Postman, and Cypress.
 
 ---
 
