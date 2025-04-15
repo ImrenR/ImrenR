@@ -1,12 +1,41 @@
-### Hi there 👋
+### Hi there 👋 
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=👩‍💻+It's+Imren.;Full-stack+Developer.;Clean+code+and+great+UX+enthusiast.;Building+with+React+%26+Next.js.;Let%27s+build+beautiful+web+apps!)](https://git.io/typing-svg)
 
 ---
 
-## 🧱 3D GitHub Contribution Calendar
+#### 🧠 Profile Summary Cards
 
-<img src="profile-3d-contrib/profile-season.svg" alt="3D GitHub Contribution Calendar" width="100%" /> 
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImrenR&theme=github" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImrenR&theme=github" alt="Top Languages by Repo" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImrenR&theme=github" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImrenR&theme=github" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImrenR&theme=github&utcOffset=8" />
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ## 🧰 Technologies I Use
