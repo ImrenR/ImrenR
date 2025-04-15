@@ -20,17 +20,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImrenR&theme=github" alt="Top Languages by Repo" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImrenR&theme=github" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImrenR&theme=github" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImrenR&theme=github&utcOffset=8" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImrenR&theme=github" /> 
     </td>
   </tr>
 </table>
