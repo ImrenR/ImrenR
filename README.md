@@ -10,13 +10,6 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImrenR&theme=github" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImrenR&theme=github" alt="Top Languages by Repo" />
     </td>
     <td>
