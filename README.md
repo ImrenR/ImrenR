@@ -1,7 +1,7 @@
 
 ### Hi there !
 - I'm a full stack developer based in Porto,Portugal and skilled in JavaScript , Java and TypeScript. 
-- I work with technologies like React.js, Node.js, Express.js, Next.js, Redux, Context API, Tailwind CSS, PostgreSQL, MongoDB, Spring Boots and tools such as GitHub, Firebase, Postman, and Cypress.
+- I work with technologies like React.js, Node.js, Express.js, Next.js, Redux, Context API, Tailwind CSS, PostgreSQL, MongoDB, Spring Boots and tools such as GitHub, Firebase, Postman.
 
 ---
 
