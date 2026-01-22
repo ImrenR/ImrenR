@@ -20,77 +20,63 @@
 
 ---
 
+## 🖥️ My Projects
 
-## 🧰 Technologies I Use
+For more, check out my GitHub repositories!
 
 <table>
   <tr>
-    <td><strong> Programming Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-      <br/>
-      JavaScript • TypeScript  • Java
-    </td>
+    <th>Numbers</th>
+    <th>Type</th>
+    <th>Tech Stack</th>
+    <th>Project Name</th>
+    <th>Project Review</th>
   </tr>
   <tr>
-    <td><strong> Frontend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-      <br/>
-      React.js • Next.js • Redux • HTML • CSS • JavaScript
+    <td style="text-align:center;">1</td>
+    <td style="text-align:center;"><span style="font-size:0.9em;">Back-End</span></td>
+    <td style="text-align:center; font-size:0.9em;">
+      Next.js<br/>
+      TypeScript<br/>
+      Prisma<br/>
+      Node.js
     </td>
+    <td style="text-align:center;"><a href="https://your-vercel-link.com" target="_blank">Team Management</a></td>
+    <td style="text-align:center;"><img src="" width="200"/></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-      <br/>
-      Node.js • Express.js
+    <td style="text-align:center;">2</td>    
+    <td style="text-align:center;"><span style="font-size:0.9em;">Front-End</span></td>
+    <td style="text-align:center; font-size:0.9em;">
+      React<br/>
+      JavaScript<br/>
+      Redux-thunk
     </td>
+    <td style="text-align:center;"><a href="https://online-newspaper-app-with-redux.vercel.app/login" target="_blank">Online Newspaper</a></td>
+    <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/online-newspaper.png" width="200"/></td>
   </tr>
   <tr>
-    <td><strong>Styling</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
-      <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-      <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg" width="40" />
-      <br/>
-      CSS • Sass • Tailwind CSS • Material UI • Bootstrap • Styled-components
+    <td style="text-align:center;">3</td> 
+    <td style="text-align:center;"><span style="font-size:0.9em;">Front-End</span></td>
+    <td style="text-align:center; font-size:0.9em;">
+      Axios<br/>
+      JavaScript<br/>
+      React
     </td>
+    <td style="text-align:center;"><a href="https://taste-api.vercel.app/home" target="_blank">Taste API</a></td>
+    <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/taste.png" width="200"/></td>
   </tr>
   <tr>
-    <td><strong> Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-      <br/>
-      SQLite • Sequelize • MongoDB • PostgreSQL
+    <td style="text-align:center;">4</td>
+    <td style="text-align:center;"><span style="font-size:0.9em;">Front-End</span></td>
+    <td style="text-align:center; font-size:0.9em;">
+      Javascript<br/>
+      React<br/>
+      UI library
     </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
-      <br/>
-      VS Code • Git • npm • WebStorm
-    </td>
+    <td style="text-align:center;"><a href="https://hospital-app-wheat.vercel.app/" target="_blank">Hospital App</a></td>
+    <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/hospitalApp.png" width="200"/></td>
   </tr>
 </table>
-
 
 
