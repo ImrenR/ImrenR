@@ -33,7 +33,7 @@ For more, check out my GitHub repositories!
     <th>Project Review</th>
   </tr>
   <tr>
-    <td style="text-align:center;">1</td>
+    <td style="text-align:center;">4</td>
     <td style="text-align:center;"><span style="font-size:0.9em;">Back-End</span></td>
     <td style="text-align:center; font-size:0.9em;">
       Next.js<br/>
@@ -45,7 +45,7 @@ For more, check out my GitHub repositories!
     <td style="text-align:center;"><img src="" width="200"/></td>
   </tr>
   <tr>
-    <td style="text-align:center;">2</td>    
+    <td style="text-align:center;">3</td>    
     <td style="text-align:center;"><span style="font-size:0.9em;">Front-End</span></td>
     <td style="text-align:center; font-size:0.9em;">
       React<br/>
@@ -56,7 +56,7 @@ For more, check out my GitHub repositories!
     <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/online-newspaper.png" width="200"/></td>
   </tr>
   <tr>
-    <td style="text-align:center;">3</td> 
+    <td style="text-align:center;">2</td> 
     <td style="text-align:center;"><span style="font-size:0.9em;">Front-End</span></td>
     <td style="text-align:center; font-size:0.9em;">
       Axios<br/>
@@ -67,7 +67,7 @@ For more, check out my GitHub repositories!
     <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/taste.png" width="200"/></td>
   </tr>
   <tr>
-    <td style="text-align:center;">4</td>
+    <td style="text-align:center;">1</td>
     <td style="text-align:center;"><span style="font-size:0.9em;">Front-End</span></td>
     <td style="text-align:center; font-size:0.9em;">
       Javascript<br/>
