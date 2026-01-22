@@ -52,7 +52,7 @@ For more, check out my GitHub repositories!
       JavaScript<br/>
       Redux-thunk
     </td>
-    <td style="text-align:center;"><a href="https://online-newspaper-app-with-redux.vercel.app/login" target="_blank">Online Newspaper</a></td>
+    <td style="text-align:center;"><a href="https://online-newspaper-app-with-redux.vercel.app/" target="_blank">Online Newspaper</a></td>
     <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/online-newspaper.png" width="200"/></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ For more, check out my GitHub repositories!
       JavaScript<br/>
       React
     </td>
-    <td style="text-align:center;"><a href="https://taste-api.vercel.app/home" target="_blank">Taste API</a></td>
+    <td style="text-align:center;"><a href="https://taste-api.vercel.app/" target="_blank">Taste API</a></td>
     <td style="text-align:center;"><img src="https://raw.githubusercontent.com/ImrenR/ImrenR/main/taste.png" width="200"/></td>
   </tr>
   <tr>
