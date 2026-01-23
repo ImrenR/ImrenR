@@ -27,7 +27,7 @@ For more, check out my GitHub repositories!
 
 | #  | Type       | Project Name | Tech Stack | Project Preview |
 | :-: | :--------: | :----------: | :---------: | :-------------: |
-| 6  | Back-End  | <a href="https://github.com/ImrenR/team-management" target="_blank">Team Management App</a> | Next.js, Prisma ORM, PostgreSQL, bcrypt, JWT | <a href="https://github.com/ImrenR/team-management" target="_blank"><img src="./images/postgreSQL.png" width="300" /></a> |
+| 6  | Back-End  | <a href="https://github.com/ImrenR/team-management" target="_blank">Team Management App</a> | Next.js, Prisma ORM, PostgreSQL, bcrypt, JWT | <a href="https://github.com/ImrenR/team-management" target="_blank"><img src="./images/postgreSQL.png" width="400" height="400" /></a> |
 | 5  | Front-End   | <a href="https://hospital-app-wheat.vercel.app/" target="_blank">Hospital App</a> | React19, JavaScript,React Icons,Simple UUID | <a href="https://hospital-app-wheat.vercel.app/" target="_blank"><img src="./images/hospital-app.png" width="300" /></a> |
 | 4  | Front-End   | <a href="https://taste-api.vercel.app/" target="_blank">Taste API</a> | React, JavaScript, Axios, Vite | <a href="https://taste-api.vercel.app/" target="_blank"><img src="./images/taste-api.png" width="300" /></a> |
 | 3  | Front-End   | <a href="https://online-newspaper-app-with-redux.vercel.app/login" target="_blank">Online Newspaper</a> | React, JavaScript, Redux-thunk, Vite | <a href="https://online-newspaper-app-with-redux.vercel.app/login" target="_blank"><img src="./images/online-newspaper.png" width="300" /></a> |
