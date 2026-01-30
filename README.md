@@ -23,7 +23,7 @@
 
 For more, check out my GitHub repositories!
 
-![Count](https://img.shields.io/badge/Total%20Projects-0-blue?style=for-the-badge&logo=github)
+![Count](https://img.shields.io/badge/Total%20Projects-9-blue?style=for-the-badge&logo=github)
 
 | #  | Type       | Project Name | Tech Stack | Project Preview |
 | :-: | :--------: | :----------: | :---------: | :-------------: |
