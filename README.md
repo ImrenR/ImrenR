@@ -27,7 +27,7 @@ For more, check out my GitHub repositories!
 
 | #  | Type       | Project Name | Tech Stack | Project Preview |
 | :-: | :--------: | :----------: | :---------: | :-------------: |
-| 9  | Full-Stack  | <a href="https://split-smart-eight.vercel.app/" target="_blank">Split Smart</a> | Next.js15, TypeScript, Convex, Clerk, Tailwind CSS, Radik UI, Lucide Icons, Resend, Zod, Inngest, PostCSS | <a href="https://split-smart-eight.vercel.app/" target="_blank"><img src="./images/splitsmart.gif" width="300"/></a> |
+| 9  | Full-Stack  | <a href="https://split-smart-eight.vercel.app/" target="_blank">Split Smart</a> | Next.js15, TypeScript, Convex, Clerk, Tailwind CSS, Radik UI, Lucide Icons, Resend, Zod, Inngest, PostCSS, Scrum  | <a href="https://split-smart-eight.vercel.app/" target="_blank"><img src="./images/splitsmart.gif" width="300"/></a> |
 | 8  | Back-End  | <a href="https://github.com/ImrenR/team-management" target="_blank">Team Management App</a> | Next.js, Prisma ORM, PostgreSQL, bcrypt, JWT | <a href="https://github.com/ImrenR/team-management" target="_blank"><img src="./images/postgreSQL.png" width="300"/></a> |
 | 7  | Front-End   | <a href="https://tutorialapp-gamma.vercel.app/" target="_blank">Tutorial App</a> | React19, JavaScript,Crud, Bootstrap, React-Icons, Axios, Restful API | <a href="https://tutorialapp-gamma.vercel.app/" target="_blank"><img src="./images/tutorialapp.gif" width="300" /></a> |
 | 6  | Front-End   | <a href="https://cinescope-alpha.vercel.app/" target="_blank">CineScope</a> | React19, JavaScript,Firebase-Auth, Tailwind CSS, React-Toastif, Context Api | <a href="https://cinescope-alpha.vercel.app/" target="_blank"><img src="./images/movieapp.gif" width="300" /></a> |
