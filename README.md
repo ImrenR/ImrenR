@@ -1,6 +1,6 @@
 
 ### Hi there !
-- I'm a Full Stack Developer based in Porto, Portugal, skilled in JavaScript, Java, and TypeScript.
+- I'm a Full Stack Developer based in Porto, Portugal and working at Reckon AI, skilled in JavaScript, Java, and TypeScript.
 -  I work with a variety of technologies including React.js, Node.js, Express.js, Next.js, Redux, Context API, Tailwind CSS, PostgreSQL, SQL, MongoDB and Spring Boot.I'm also proficient with tools such as GitHub, Firebase, Postman, and have experience with JWT, bcrypt, Prisma ORM, Material UI, Radix UI, Lambda, Agile methodology and OOP principles.
 
 ---
